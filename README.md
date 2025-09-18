@@ -63,6 +63,10 @@ mvn exec:java -Dexec.mainClass=com.example.Main
 mvn test
 JUnit 5 is already configured in `pom.xml`.
 
+## TO run the main file 
+mvn clean compile exec:java "-Dexec.mainClass=com.example.Main"
+
+
 ---
 
 ## Package as a JAR
