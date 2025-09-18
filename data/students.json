@@ -1,0 +1,11 @@
+[ {
+  "name" : "Charan",
+  "age" : 22,
+  "rollNumber" : "302",
+  "grade" : "B"
+}, {
+  "name" : "Jayanth",
+  "age" : 22,
+  "rollNumber" : "301",
+  "grade" : "A"
+} ]
